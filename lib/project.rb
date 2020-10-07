@@ -11,5 +11,4 @@ class Project
     backer.backed_projects(self)
   end 
 
-  
 end
