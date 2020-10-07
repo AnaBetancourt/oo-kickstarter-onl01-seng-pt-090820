@@ -10,15 +10,6 @@ class Project
     @backers << backer 
     # backer.back_project(self)
   end 
-  
-  
-  
-    def add_backer(backer)
-    @backers << backer
-    backer.backed_projects << self
-  end
-  
-  
-  
+
   
 end
